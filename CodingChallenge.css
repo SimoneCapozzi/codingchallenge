@@ -1,0 +1,71 @@
+body{
+  background-image: url(../Boolean/background.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  }
+
+.contenitore{
+  width: 1000px;
+  display: block;
+  margin: auto;
+  margin-top: 200px;
+  text-align: center;
+  width: 1500px;
+  height: 800px;
+  background-color: rgb(0, 0, 0, 0.5);
+  padding: 80px;
+}
+
+
+#logo{
+  width: 200px;
+  margin-top: 50px;
+}
+
+.titolo{
+  color: rgb(0, 204, 0);
+}
+
+.ricerca{
+  background-color: rgb(0, 204, 0);
+  border: 15px solid rgb(0, 204, 0);
+}
+
+.corpo{
+background-position: center;
+text-align: left;
+margin-top: 20px;
+color: white;
+font-family: 'Poppins',sans-serif;
+}
+
+#monopattino{
+  font-size: 30px;
+}
+
+#via{
+text-overflow: 20px
+}
+
+.Gino22{
+  width: 300px;
+  height: 20px;
+  background-color: rgb(255, 166, 77);
+  border-radius: 5px 5px 5px 5px;
+}
+
+.Mike24{
+  width: 500px;
+  height: 20px;
+  background-color: rgb(0, 204, 0);
+  border-radius: 5px 5px 5px 5px;
+}
+
+.fede154{
+  width: 150px;
+  height: 20px;
+  background-color: rgb(255, 102, 102);
+  border-radius: 5px 5px 5px 5px;
+}
